@@ -1,0 +1,31 @@
+
+.org-section {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+
+.org-section img {
+
+    position: flex;       
+    cursor: pointer;    
+    width: 100px;
+    height: 100px;
+
+}
+
+.titulo-org {
+    color: #6278F7;
+    font-family: 'Prata';
+    font-weight: 100;
+    font-size: 40px;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #6278F7;
+
+    width: 311px;
+    height: 60px;
+    left: 300px;
+}
